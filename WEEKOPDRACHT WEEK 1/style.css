@@ -1,0 +1,67 @@
+
+
+
+body {
+    background-image: url(img/splashing%20achtergrond%20reductie.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin:20px;
+    padding:10px;
+    
+}
+
+
+header {
+padding: 50px;
+height: 40px;
+}
+
+nav ul
+{float: left;}
+
+nav ul li a {
+
+text-decoration: none; color:black;
+}
+
+nav ul li
+{   
+    display:inline-block;
+    padding: 20px;
+    background-color: #7C9EB4;
+    border-radius:  10px;
+    border:  2px  solid  #111;
+    }
+
+.content{
+    padding-top: 60px;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.tekstblok {
+    border: 10px solid grey;
+    border: 0px solid grey;
+    float: left;
+}
+
+.content img {
+    margin-right: 100px;
+    float: left;
+}
+
+footer		{
+	background-color: dimgray;
+	width: 100%;
+	padding: 20x 0px;
+	height: 40px;
+	border-radius: 25px;
+	}
+	
+	
